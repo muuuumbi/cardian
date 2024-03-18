@@ -46,7 +46,7 @@
 
 ### Cardian
 #### BE
-[Cardian BE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/BackEnd/cardian/ReadMe.md?ref_type=heads)
+[Cardian BE Readme 보러가기](https://github.com/muuuumbi/cardian/blob/master/BackEnd/cardian/ReadMe.md)
 
 #### FE
 [Cardian FE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/FrontEnd/README.md?ref_type=heads
