@@ -92,7 +92,7 @@
 
 ### 전체메뉴
 <p align="center">
-  <img src="/uploads/b6d04e50ce86198183f44c483a83baec/menu.png" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/4174eac9-0b78-4f0b-8fb7-450da81f3cd4" width="300">
 </p>
 
 ## 프로젝트 구조
