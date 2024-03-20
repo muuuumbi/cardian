@@ -57,37 +57,37 @@
 
 ### 로그인
 <p align="center">
-  <img src="/uploads/167c0dac6b7b062e6568fc22a5e5effa/login.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/1eec3437-5227-4760-b8d6-5c9509db30f2" width="300">
 </p>
 
 ### 홈
 <p align="center">
-  <img src="/uploads/708e18a02328849c186628bfc03022fc/home.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/ca2c0d31-82f9-43e5-ada4-fe5b9d0964ed" width="300">
 </p>
 
 ### 카드 이용내역 및 혜택
 <p align="center">
-  <img src="/uploads/787c717d84096f48cb2867d1964cb325/detail.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/b4798bd8-a6fb-4b2f-b71b-10d244dc2526" width="300">
 </p>
 
 ### 매장별 혜택 검색
 <p align="center">
-  <img src="/uploads/fb4b5f3f4757d451f89d7ea3523fca03/categorysearch.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/7fc15c6c-3613-4451-ab64-0f28b330eb26" width="300">
 </p>
 
 ### 카테고리 별 통계
 <p align="center">
-  <img src="/uploads/435cc0d7c6532330ee74a4911655333e/analysiscategory.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/d0b83c26-fa59-4013-b79e-c31c8a15cb3f" width="300">
 </p>
 
 ### 연말정산
 <p align="center">
-  <img src="/uploads/65b5bb6644ab74fb705be0a8ed5d4fbf/settlement.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/b08d6013-1c12-4ec2-8519-e754456003d9" width="300">
 </p>
 
 ### 카테고리 별 카드 추천
 <p align="center">
-  <img src="/uploads/6682e9d00e1e4e0ea13a23419ab2fc6c/recommend.gif" width="300">
+  <img src="https://github.com/muuuumbi/cardian/assets/140461856/5304d2b9-8830-45c4-a5cf-a902331e79d9" width="300">
 </p>
 
 ### 전체메뉴
