@@ -52,7 +52,7 @@
 [Cardian FE Readme 보러가기](https://github.com/muuuumbi/cardian/blob/master/FrontEnd/README.md)
 
 ### Card Company
-[Card Company BE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/BackEnd/cardcompany/README.md?ref_type=heads)
+[Card Company BE Readme 보러가기](https://github.com/muuuumbi/cardian/blob/master/BackEnd/cardcompany/README.md)
 
 
 
